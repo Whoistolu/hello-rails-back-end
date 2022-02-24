@@ -1,24 +1,50 @@
-# README
+# HELLO RAILS REACT FRONTEND
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ A project using the `react-rails` gem to build React components as a part of Rails JavaScript and serve it in a component, react_component, used in a regular ERB file.
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- React
+- Ruby on Rails
+- Visual Studio Code
+- Lots of love :heart:
+## Link To React App
+[REACT App](https://github.com/Whoistolu/hello-react-front-end)
+## Setup
 
-* System dependencies
+- Clone [Hello-React-Rails Web App](https://github.com/Whoistolu/hello-react-back-end) on local machine
+- Run 
 
-* Configuration
+```
+yarn
 
-* Database creation
+```
+yarn start
+```
 
-* Database initialization
+## Author:
 
-* How to run the test suite
+￼ **Toluwase Ajise**
 
-* Services (job queues, cache servers, search engines, etc.)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>](https://github.com/whoistolu)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"></code>](https://twitter.com/Littletolu)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></code>](https://www.linkedin.com/in/toluwase-ajise-9b40411b2/)
+<a href="digittolu25@gmail.com?subject=Hello Tolu!"><img height="26" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
 
-* Deployment instructions
+## ￼ Contributing
 
-* ...
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Whoistolu/Hello-Rails-React/issues).
+
+## Show your support
+
+Give a 👍 if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./LICENSE.md) licensed.
