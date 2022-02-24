@@ -8,26 +8,19 @@
 - Ruby on Rails
 - Visual Studio Code
 - Lots of love :heart:
-
-
+## Link To React App
+[REACT App](https://github.com/Whoistolu/hello-react-front-end)
 ## Setup
 
 - Clone [Hello-React-Rails Web App](https://github.com/Whoistolu/hello-react-back-end) on local machine
 - Run 
 
 ```
-bundle install
-```
-```
 yarn
+
 ```
+yarn start
 ```
-rails db:migrate db:seed
-```
-```
-rails s
-```
-- `Alt` + Click `127.0.0.1:3000` or just visit  `http://127.0.0.1:3000`
 
 ## Author:
 
